@@ -1,20 +1,18 @@
-# Sistema de Login e Senha via Portugol:computer:
+# Login and Password System | Portugol Studio💻
 
-  Foi utilizado a IDE Portugol Webstudio junto aos entendimentos dos conteúdos sobre linguagem de programação e algoritmos.
+    This code has been created, based on the classes of "Progamming Languages", "First steps in programming on Portugol" and "Algorithms", by teacher Juliana Mascaranhas on the plataform DIO.
 
-## Algoritmo utilizado:
+## Algorithm
 
-  Após a escolha do sistema a ser formado, foi necessário me aprofundar na linguagem de programação para melhor entendimento do algoritmo que seria construído, após algumas tentativas, vi que teria dificuldade na formação do mesmo, por isso, tive de procurar na internet um sistema igual ou parecido, mas o que encontrei foi algo próximo ao que necessitava, o que já foi suficiente para a construção do meu projeto. 
+    The algoritm has been created based on projects in the internet, by the author using codes with similar functions. i rewrote this code making sure, all the features gonna work with no problems and the code stay clear, like the original code but now, with no divergences on the final resultes.
 
-## Instruções:
+## Instructions
 
-  Ao acessar o programa, o mesmo ira pedir  *"Login"* e *"Senha"*, os quais foram pré-definidos como *"adm"* e *"adm"* respectivamente.  Os mesmos podem ser alterados nas sessões *"se"*, após *"=="*.
+    Just acessing the program, it'll ask for the "**login**" and the "**password**", which are both pre-select by "_programming_", to make it easy to test. The login and password, can be changed, just changing the word "programming" to whatever the user want, in the sessions **se**, after the equal symbols (**=**).
 
-## Finalização: 
+## Conclusion
 
-  Após realizar todos os testes, garanti 100% do funcionamento programa.
+    After realize all the tests, the program is working with no bugs and no divergences. Using a simple code on Portugol Studio.
 
-
-
- 
+Any suggests or advices, ill be so gratefull by your help! @obassetti 😊
 
